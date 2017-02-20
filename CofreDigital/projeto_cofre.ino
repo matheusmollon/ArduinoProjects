@@ -10,7 +10,7 @@
 #include <EEPROM.h> //importa a biblioteca para manipulação da EEPROM
 #include <LiquidCrystal.h> ////importa a biblioteca para manipulação do display LCD
 #define numeroLinhas 4 // 4 linhas presentes no teclado
-#define numeroColunas 3 // 3 colinas presentes no teclado
+#define numeroColunas 3 // 3 colunas presentes no teclado
 #define ledGreen 9 // definição do pino para o LED verde do RGB
 #define ledRed 10 // definição do pino para o LED verde do RGB
 #define buzzer 11 // definição do pino para o Buzzer
